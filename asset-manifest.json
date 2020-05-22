@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.18ffae38.chunk.css",
-    "main.js": "/static/js/main.d9109b18.chunk.js",
-    "main.js.map": "/static/js/main.d9109b18.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d2635588.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d2635588.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.dda223c3.chunk.js": "/static/js/2.dda223c3.chunk.js",
-    "static/js/2.dda223c3.chunk.js.map": "/static/js/2.dda223c3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e3232f3753f8f2bea1edc5fd7dcc88f0.js": "/precache-manifest.e3232f3753f8f2bea1edc5fd7dcc88f0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.18ffae38.chunk.css.map": "/static/css/main.18ffae38.chunk.css.map",
-    "static/js/2.dda223c3.chunk.js.LICENSE.txt": "/static/js/2.dda223c3.chunk.js.LICENSE.txt"
+    "main.css": "/sailing-blog-2011-2012/static/css/main.18ffae38.chunk.css",
+    "main.js": "/sailing-blog-2011-2012/static/js/main.7c99d1a0.chunk.js",
+    "main.js.map": "/sailing-blog-2011-2012/static/js/main.7c99d1a0.chunk.js.map",
+    "runtime-main.js": "/sailing-blog-2011-2012/static/js/runtime-main.cc28c05d.js",
+    "runtime-main.js.map": "/sailing-blog-2011-2012/static/js/runtime-main.cc28c05d.js.map",
+    "static/css/2.de424728.chunk.css": "/sailing-blog-2011-2012/static/css/2.de424728.chunk.css",
+    "static/js/2.dda223c3.chunk.js": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js",
+    "static/js/2.dda223c3.chunk.js.map": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js.map",
+    "index.html": "/sailing-blog-2011-2012/index.html",
+    "precache-manifest.bec57f1d7c71fffcf74e68c678eb024f.js": "/sailing-blog-2011-2012/precache-manifest.bec57f1d7c71fffcf74e68c678eb024f.js",
+    "service-worker.js": "/sailing-blog-2011-2012/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sailing-blog-2011-2012/static/css/2.de424728.chunk.css.map",
+    "static/css/main.18ffae38.chunk.css.map": "/sailing-blog-2011-2012/static/css/main.18ffae38.chunk.css.map",
+    "static/js/2.dda223c3.chunk.js.LICENSE.txt": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2635588.js",
+    "static/js/runtime-main.cc28c05d.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.dda223c3.chunk.js",
     "static/css/main.18ffae38.chunk.css",
-    "static/js/main.d9109b18.chunk.js"
+    "static/js/main.7c99d1a0.chunk.js"
   ]
 }
