@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/sailing-blog-2011-2012/static/css/main.18ffae38.chunk.css",
-    "main.js": "/sailing-blog-2011-2012/static/js/main.7c99d1a0.chunk.js",
-    "main.js.map": "/sailing-blog-2011-2012/static/js/main.7c99d1a0.chunk.js.map",
+    "main.js": "/sailing-blog-2011-2012/static/js/main.1b07751e.chunk.js",
+    "main.js.map": "/sailing-blog-2011-2012/static/js/main.1b07751e.chunk.js.map",
     "runtime-main.js": "/sailing-blog-2011-2012/static/js/runtime-main.cc28c05d.js",
     "runtime-main.js.map": "/sailing-blog-2011-2012/static/js/runtime-main.cc28c05d.js.map",
     "static/css/2.de424728.chunk.css": "/sailing-blog-2011-2012/static/css/2.de424728.chunk.css",
-    "static/js/2.dda223c3.chunk.js": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js",
-    "static/js/2.dda223c3.chunk.js.map": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js.map",
+    "static/js/2.c9ba846e.chunk.js": "/sailing-blog-2011-2012/static/js/2.c9ba846e.chunk.js",
+    "static/js/2.c9ba846e.chunk.js.map": "/sailing-blog-2011-2012/static/js/2.c9ba846e.chunk.js.map",
     "index.html": "/sailing-blog-2011-2012/index.html",
-    "precache-manifest.bec57f1d7c71fffcf74e68c678eb024f.js": "/sailing-blog-2011-2012/precache-manifest.bec57f1d7c71fffcf74e68c678eb024f.js",
+    "precache-manifest.ddefbbea72aa19d48c3da7f904c96452.js": "/sailing-blog-2011-2012/precache-manifest.ddefbbea72aa19d48c3da7f904c96452.js",
     "service-worker.js": "/sailing-blog-2011-2012/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/sailing-blog-2011-2012/static/css/2.de424728.chunk.css.map",
     "static/css/main.18ffae38.chunk.css.map": "/sailing-blog-2011-2012/static/css/main.18ffae38.chunk.css.map",
-    "static/js/2.dda223c3.chunk.js.LICENSE.txt": "/sailing-blog-2011-2012/static/js/2.dda223c3.chunk.js.LICENSE.txt"
+    "static/js/2.c9ba846e.chunk.js.LICENSE.txt": "/sailing-blog-2011-2012/static/js/2.c9ba846e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc28c05d.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.dda223c3.chunk.js",
+    "static/js/2.c9ba846e.chunk.js",
     "static/css/main.18ffae38.chunk.css",
-    "static/js/main.7c99d1a0.chunk.js"
+    "static/js/main.1b07751e.chunk.js"
   ]
 }

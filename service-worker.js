@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sailing-blog-2011-2012/precache-manifest.bec57f1d7c71fffcf74e68c678eb024f.js"
+  "/sailing-blog-2011-2012/precache-manifest.ddefbbea72aa19d48c3da7f904c96452.js"
 );
 
 self.addEventListener('message', (event) => {
