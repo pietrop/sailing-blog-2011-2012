@@ -15,7 +15,7 @@
     "react-in-viewport": "^1.0.0-alpha.11",
     "react-jss": "^10.1.1",
     "react-on-screen": "^2.1.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-scrollama": "^2.2.7",
     "react-visibility-sensor": "^5.1.1",
     "xml2json": "^0.12.0"
